@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quiz2", "Quiz2\Quiz2.vcxproj", "{6963907F-E8E1-451E-A78C-DF68857E8BC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -36,6 +38,14 @@ Global
 		{9930A8F8-A937-4824-94C3-2F91F5D25639}.Release|x64.Build.0 = Release|x64
 		{9930A8F8-A937-4824-94C3-2F91F5D25639}.Release|x86.ActiveCfg = Release|Win32
 		{9930A8F8-A937-4824-94C3-2F91F5D25639}.Release|x86.Build.0 = Release|Win32
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Debug|x64.ActiveCfg = Debug|x64
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Debug|x64.Build.0 = Debug|x64
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Debug|x86.Build.0 = Debug|Win32
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Release|x64.ActiveCfg = Release|x64
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Release|x64.Build.0 = Release|x64
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Release|x86.ActiveCfg = Release|Win32
+		{6963907F-E8E1-451E-A78C-DF68857E8BC8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
